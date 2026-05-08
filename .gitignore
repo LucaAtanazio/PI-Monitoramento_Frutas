@@ -1,0 +1,12 @@
+.venv/
+.vscode/
+
+data/.ipynb_checkpoints
+data/.vscode
+data/FINAL-novo-monitoramento/.ipynb_checkpoints
+
+data/monitoramento
+data/gráficos-ANTIGOS
+
+.env
+config.h
