@@ -46,20 +46,14 @@ O sistema foca em **frutos climatéricos**, que apresentam pico respiratório e 
 ├──.venv/
 ├──.vscode/
 ├──data/
-├──esp32/DADOS/
+├──esp32/
 ├──modelos/
 ├──static/
-├──.env example
 ├──.gitignore
 ├──README.MD
-├──app.py
-├──config.h.example
+├──app.p
 ├──machine.py
 ├──machinelearning.py
-├──modelo_1_estado.pkl
-├──modelo_2_tempo_restante.pkl
-├──modelo_4_identificacao_fruta.pkl
-├──modelo_extra_alerta.pkl
 ├──requirements.txt
 
 ## Instalação e Configuração
